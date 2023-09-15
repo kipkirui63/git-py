@@ -12,17 +12,17 @@ const Main = () => {
                     <h1 className="sm:text-5xl text-4xl font-extrabold text-orange-600">I'm Sang</h1>
                     <h2 className="flex sm-text-3x text-2xl font-semibold text-white">
                         <TypeAnimation
-//       sequence={[
-//         'Software Engineer',
-//         2000,
-//         'Full-Stact Developer',
-//         2000,
-//         'Web and Mobile Developer',
-//         2000,
-//         'Data Structures and Algorithms',
-//         2000
-//       ]}
-//       wrapper="div"
+      sequence={[
+        'Software Engineer',
+        2000,
+        'Full-Stact Developer',
+        2000,
+        'Web and Mobile Developer',
+        2000,
+        'Data Structures and Algorithms',
+        2000
+      ]}
+      wrapper="div"
 //       speed={20}
 //       style={{ fontSize: '1em', display: 'inline-block', paddingLeft:'5px' }}
 //       repeat={Infinity}
