@@ -2,11 +2,11 @@ import React, { useState } from "react";
 import {AiOutlineMenu, AiOutlineHome, AiOutlineProject, AiOutlineMail, AiOutlineCheckSquare, AiOutlineSafetyCertificate} from "react-icons/ai";
 import {GrProjects} from "react-icons/gr"
 
-// const Sidenav = () => {
-//     const [nav, setNav] = useState (false)
-//     const handleNav = () => {
-//         setNav(!nav);
-//     };
+const Sidenav = () => {
+    const [nav, setNav] = useState (false)
+    const handleNav = () => {
+        setNav(!nav);
+    };
     
 //     return (
 //         <div>
