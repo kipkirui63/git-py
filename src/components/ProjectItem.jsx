@@ -7,7 +7,7 @@ const ProjectItem = ({img, title}) => {
             <div className="hidden group-hover:block absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]">
                 <h3 className="text-2xl font-bold text-gray-800 tracking-wider text-center"> 
                     {title}
-{/* //                 </h3>
+//                 </h3>
 //                 <p className="pb-4 pt-2 text-gray-800 text-center">ReactJS</p>
 //                 <a href="/"/>
 //                 <p className="text-center p-3 rounded-lg bg-orange-600 text-white text-normal cursor-pointer">More Info...</p>
@@ -15,4 +15,4 @@ const ProjectItem = ({img, title}) => {
 //         </div> */}
 {/* //     )
 // }
-// export default ProjectItem; */}
+// export default ProjectItem;
