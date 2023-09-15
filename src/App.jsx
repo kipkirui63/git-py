@@ -5,17 +5,17 @@ import Work from './components/Work'
 import Projects from './components/Projects'
 import Contacts from './components/Contacts'
 
-// function App() {
+function App() {
 
-//   return (
-//     <div>
-//       <Sidenav/>
-//       <Main/>
-//       <Work/>
-//       <Projects/>
-//       <Contacts/>
-//     </div>
-//   )
-// }
+  return (
+    <div>
+      <Sidenav/>
+      <Main/>
+      <Work/>
+      <Projects/>
+      <Contacts/>
+    </div>
+  )
+}
 
 // export default App
