@@ -67,7 +67,7 @@ const Sidenav = () => {
 //                     </div>
 //                    </div>
 //         </div>
-//     );
-// };
+    );
+};
 
-// export default Sidenav;
+export default Sidenav;
