@@ -2,32 +2,32 @@ import React from "react";
 import WorkItem from "./WorkItem";
 
 
-// const Data = [
-//     {
-//         year:2023,
-//         title: "Software Engineer",
-//         duration: "3 Years",
-//         details: "A software engineer designs, develops, and maintains software applications, utilizing programming languages, algorithms, and problem-solving skills to create functional and efficient solutions for various purposes."
-//     },
-//     {
-//         year:2020,
-//         title: "Software Engineer",
-//         duration: "3 Years",
-//         details: "A software engineer designs, develops, and maintains software applications, utilizing programming languages, algorithms, and problem-solving skills to create functional and efficient solutions for various purposes."
-//     },
-//     {
-//         year:2017,
-//         title: "Software Engineer",
-//         duration: "3 Years",
-//         details: "A software engineer designs, develops, and maintains software applications, utilizing programming languages, algorithms, and problem-solving skills to create functional and efficient solutions for various purposes."
-//     },
-//     {
-//         year:2014,
-//         title: "Software Engineer",
-//         duration: "3 Years",
-//         details: "A software engineer designs, develops, and maintains software applications, utilizing programming languages, algorithms, and problem-solving skills to create functional and efficient solutions for various purposes."
-//     },
-// ]
+const Data = [
+    {
+        year:2023,
+        title: "Software Engineer",
+        duration: "3 Years",
+        details: "A software engineer designs, develops, and maintains software applications, utilizing programming languages, algorithms, and problem-solving skills to create functional and efficient solutions for various purposes."
+    },
+    {
+        year:2020,
+        title: "Software Engineer",
+        duration: "3 Years",
+        details: "A software engineer designs, develops, and maintains software applications, utilizing programming languages, algorithms, and problem-solving skills to create functional and efficient solutions for various purposes."
+    },
+    {
+        year:2017,
+        title: "Software Engineer",
+        duration: "3 Years",
+        details: "A software engineer designs, develops, and maintains software applications, utilizing programming languages, algorithms, and problem-solving skills to create functional and efficient solutions for various purposes."
+    },
+    {
+        year:2014,
+        title: "Software Engineer",
+        duration: "3 Years",
+        details: "A software engineer designs, develops, and maintains software applications, utilizing programming languages, algorithms, and problem-solving skills to create functional and efficient solutions for various purposes."
+    },
+]
 
 // const Work = () => {
 //   return (
