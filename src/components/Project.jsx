@@ -22,6 +22,6 @@ const Projects = () => {
 //                 </div>
 
 //         </div>
-//     )
-// }
-// export default Projects;
+    )
+}
+export default Projects;
