@@ -23,21 +23,21 @@ const Main = () => {
         2000
       ]}
       wrapper="div"
-//       speed={20}
-//       style={{ fontSize: '1em', display: 'inline-block', paddingLeft:'5px' }}
-//       repeat={Infinity}
-//     />
-//                     </h2>
-//                      {/* <div className="flex justify-between pt-6 max-w-[200px] w-full"> 
-//                     <GrTwitter />
-//                     <FaFacebookF />
-//                     <Fainstagram />
-//                     <FaLinkedinIn />
-//                 </div> */}
-//                 </div>
-//             </div>
-//         </div>
-//     )
-// }
+      speed={20}
+      style={{ fontSize: '1em', display: 'inline-block', paddingLeft:'5px' }}
+      repeat={Infinity}
+    />
+                    </h2>
+                     {/* <div className="flex justify-between pt-6 max-w-[200px] w-full"> 
+                    <GrTwitter />
+                    <FaFacebookF />
+                    <Fainstagram />
+                    <FaLinkedinIn />
+                </div> */}
+                </div>
+            </div>
+        </div>
+    )
+}
 
 // export default Main;
