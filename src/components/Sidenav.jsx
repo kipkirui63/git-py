@@ -41,19 +41,19 @@ const Sidenav = () => {
                         </a>
                     </div>
                 ):(
-//                     ''
-//                 )}
-//                 <div className="md:block hidden fixed top-[25%] z-10">
-//                     <div className="flex flex-col">
-//                     <a onClick={handleNav} href="#main" className="rounded-full shadow-lg bg-orange-500 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
-//                         <AiOutlineHome size={20} />
-//                     </a>
-//                     <a onClick={handleNav}href="#main" className="rounded-full shadow-lg bg-orange-500 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
-//                         <AiOutlineCheckSquare size={20} />
-//                     </a>
-//                     <a onClick={handleNav}href="#main" className="rounded-full shadow-lg bg-orange-500 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
-//                         <AiOutlineSafetyCertificate size={20} />
-//                     </a>
+                    ''
+                )}
+                <div className="md:block hidden fixed top-[25%] z-10">
+                    <div className="flex flex-col">
+                    <a onClick={handleNav} href="#main" className="rounded-full shadow-lg bg-orange-500 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
+                        <AiOutlineHome size={20} />
+                    </a>
+                    <a onClick={handleNav}href="#main" className="rounded-full shadow-lg bg-orange-500 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
+                        <AiOutlineCheckSquare size={20} />
+                    </a>
+                    <a onClick={handleNav}href="#main" className="rounded-full shadow-lg bg-orange-500 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
+                        <AiOutlineSafetyCertificate size={20} />
+                    </a>
 //                     <a onClick={handleNav}href="#main" className="rounded-full shadow-lg bg-orange-500 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
 //                         <AiOutlineProject size={20} />
 //                     </a>
